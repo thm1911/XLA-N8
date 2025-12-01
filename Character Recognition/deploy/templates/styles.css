@@ -1,0 +1,28 @@
+#preview {
+    max-width: 300px !important;  
+    max-height: 300px !important;
+    width: auto !important;
+    height: auto !important;
+
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    padding: 5px;
+    display: none;
+    object-fit: contain;
+    background: white;
+}
+
+
+
+
+#result-box {
+    font-size: 26px;
+    font-weight: 600;
+    color: #0d6efd;
+    min-height: 150px;
+    padding: 15px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #e1e1e1;
+    white-space: pre-line;
+}
